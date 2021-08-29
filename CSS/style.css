@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Opti&display=swap');
+
+body{
+    background-image: url('../imagens/fundo.png');
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+header{
+    color: white;
+    font-size: 25px;
+    font-family: 'Kaisei Opti', serif;
+    text-shadow: 2px 2px 2px black;
+}
+
+section{
+    margin-top: 30px;
+
+}
+
+table,td,th{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+table{
+    width: 70%;
+    margin: auto;
+}
+
+img{
+    width: 900px;
+}
+
+.torta{
+    background-color: #69b800;
+    font-size: 20px;
+    color: white;
+}
+
+.smore{
+    background-color: #bd7332;
+    font-size: 20px;
+    color: white;
+}
+
+.smoothie{
+    background-color: #aa2833;
+    font-size: 20px;
+    color: white;
+}
+
+.links{
+    background-color: #e2e38f;
+}
